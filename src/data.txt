@@ -1,0 +1,56 @@
+ENCS2110;DIGITAL ELECTRONICS AND COMPUTER ORGANIZATION LABORATORY;8,jamalsiam.ibrahimnemer.ismailkhater.adnanyehya.ismailkhater.adnanyehya.khadershehadeh.bilalkaraky
+ENCS2340;DIGITAL SYSTEMS;8,ismailkhater.ismailkhater.mohammedhusain.bilalkaraky.anjadbadran.ibrahimnemer.aliabduh.anjadbadran
+ENCS2380;COMPUTER ORGANIZATION AND MICROPROCESSOR;2,abuelsuud.abuelsuud
+ENCS311;ASSEMBLY LANGUAGE LABORATORY;1,abuelsuud
+ENCS3130;LINUX LABORATORY;5,mohammedjubran.mohammedjubran.khadermohammed.azizqaroush.mohammedjubran
+ENCS3310;ADVANCED DIGITAL SYSTEMS DESIGN;2,abdullatifabuissa.abdullatifabuissa
+ENCS3320;COMPUTER NETWORKS;3,abdulkarimawad.ibrahimnemer.abdulkarimawad
+ENCS3330;DIGITAL INTEGRATED CIRCUITS;2,khadermohammed.khadermohammed
+ENCS3340;ARTIFICIAL INTELLIGENCE;2,azizqaroush.azizqaroush
+ENCS3341;EMBEDDED SYSTEMS;1,mohammedhilal
+ENCS336;COMPUTER ORGANIZATION AND ASSEMBLY LANGUAGE;2,mohammedhilal.mohammedhilal
+ENCS3390;OPERATING SYSTEMS;4,yazanabufarha.yazanabufarha
+ENCS411;COMPUTER DESIGN LAB;2,abdullatifabuissa.abdullatifabuissa
+ENCS4110;COMPUTER DESIGN LABORATORY;5,abuelsuud.abuelsuud.aymanhrub.aymanhrub.abuelsuud
+ENCS412;INTERFACING LABORATORY;3,jamalsiam.waselghanem.waselghanem
+ENCS4130;COMPUTER NETWORK LABORATORY;9,ibrahimnemer.ibrahimnemer.bashartahayneh.ismailkhater.mohammedhilal.ibrahimnemer.abdulkarimawad.mohammedhilal.ismailkhater
+ENCS4300;PRACTICAL TRAINING;1,mohammedhusain
+ENCS4310;DIGITAL SIGNAL PROCESSING (DSP);3,alhareth.qadrimialeh.qadrimialeh
+ENCS4320;APPLIED CRYPTOGRAPHY;3,ahmedelsaadeh.ahmedelsaadeh.ahmedelsaadeh
+ENCS4330;REAL-TIME APPLICATIONS AND EMBEDDED SYSTEMS;2,hannabalatah.hannabalatah
+ENCS4370;COMPUTER ARCHITECTURE;3,aymanhrub.azizqaroush.aymanhrub
+ENCS4380;INTERFACING TECHNIQUES;2,waselghanem.waselghanem
+ENCS514;REAL-TIME SYSTEMS LAB;4,hannabalatah.azizqaroush.hannabalatah.hannabalatah
+ENCS5150;ADVANCED COMPUTER SYSTEMS ENGINEERING LABORATORY;4,yazanabufarha.mohammedhusain.yazanabufarha.mohammedhusain
+ENCS5322;NETWORK SECURITY PROTOCOLS;1,ahmedelsaadeh
+ENCS5332;VLSI DESIGN;1,khadermohammed
+ENCS5341;MACHINE LEARNING AND DATA SCIENCE;1,yazanabufarha
+ENCS5399;SP.TOP: VERIFICATION AND VALIDATION OF HARDWARE;1,aymanhrub
+ENEE2101;BASIC ELECTRICAL ENGINEERING LAB;1,jasersaad
+ENEE2102;CIRCUITS LAB;1,jasersaad
+ENEE2103;CIRCUITS AND ELECTRONICS LABORATORY;3,mohammedjubeh.naserismail.mohammedjubeh
+ENEE2304;CIRCUIT ANALYSIS;2,jasersaad.hakamshehadeh
+ENEE2307;PROBABILITY AND ENGINEERING STATISTICS;5,mohammedjubran.alhareth.mohammedjubran.alhareth.jasersaad
+ENEE2311;NETWORK ANALYSIS 1;2,alhareth.aliabduh
+ENEE2312;SIGNALS AND SYSTEMS;2,jamalsiam.jamalsiam
+ENEE2360;ANALOG ELECTRONICS;3,naserismail.mohammedjubeh.naserismail
+ENEE3101;ELECTRICAL MACHINES LAB;2,aliabduh.aliabduh
+ENEE3103;ANALOG ELECTRONICS LAB  (FOR MECHATRONIC STUDENTS);1,mohammedjubeh
+ENEE3112;ELECTRONICS LAB;2,naserismail.mohammedjubeh
+ENEE3302;CONTROL SYSTEMS;1,jamalsiam
+ENEE3304;ELECTRONICS 2;1,mohammedjubeh
+ENEE3305;POWER ELECTRONICS;1,mohammedshareef
+ENEE3307;LIGHTING AND ACOUSTICS ENGINEERING;2,husainzetawi.hakamshehadeh
+ENEE3308;ELECTROMECHANICAL PRINCIPLES AND APPLICATIONS;1,hakamshehadeh
+ENEE3309;COMMUNICATION SYSTEMS;4,waelhashlamon.ashrafremawi.ashrafremawi.qadrimialeh
+ENEE3318;ELECTROMAGNETICS;1,ashrafremawi
+ENEE4102;FUNDAMENTALS OF ELECTRICAL MACHINES LAB.;2,mohammedshareef.aliabduh
+ENEE4104;ENGINEERING SIMULATION LAB;1,jamalsiam
+ENEE4105;CONTROL AND POWER ELECTRONICS LAB;1,hakamshehadeh
+ENEE4113;COMMUNICATIONS LAB;6,alhareth.ashrafremawi.qadrimialeh.waelhashlamon.ashrafremawi.qadrimialeh
+ENEE4302;CONTROL SYSTEMS 1;1,jamalsiam
+ENEE4303;ELECTRICAL MACHINES FUNDAMENTALS;1,aliabduh
+ENEE5102;POWER LAB;1,jasersaad
+ENEE5303;ELECTRICAL MACHINE DRIVES AND SPECIAL MACHINES;1,hakamshehadeh
+ENEE5304;INFORMATION AND CODING THEORY;1,waelhashlamon
+ENEE5307;RENEWABLE ENERGY AND PHOTOVOLTAIC POWER SYSTEMS;1,naserismail
